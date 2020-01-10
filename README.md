@@ -30,20 +30,21 @@
 
 ### Part 2
 
-<img height="500px" src="screenshots/v1.jpg" >
+<img width="500px" src="screenshots/v1.jpg" >
 
 ### Part 3
-<img height="500px" src="screenshots/2.jpg" >
+<img width="400px" src="screenshots/2.jpg" >
+
 
 ##  :iphone: Screenshots :iphone:
 
-<img height="500px" src="screenshots/3.jpg" >
+<img width="500px" src="screenshots/3.jpg" >
+
 
 ## :paperclip: Used plugins :paperclip:
 
    :heavy_check_mark: **Facebook_Page_Plugin**<br>
   
-##:octicon-mail: Contact:cticon-mail>
-   tariqulcse2@gmail.com
+## Contact: tariqulcse2@gmail.com
 
 ### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
