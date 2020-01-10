@@ -46,7 +46,7 @@
    :heavy_check_mark: **Facebook_Page_Plugin**<br>
    
   
-## Contact:  E-mail: tariqulcse2@gmail.com
-     Twitter: @tariqul_tais
+## Contact: tariqulcse2@gmail.com
+            Twitter: @tariqul_tais
 
 ### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
