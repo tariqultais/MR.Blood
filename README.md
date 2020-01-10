@@ -33,7 +33,7 @@
 <img width="500px" src="screenshots/v1.jpg" >
 
 ### Part 3
-<img width="400px" src="screenshots/2.jpg" >
+<img width="500px" src="screenshots/2.jpg" >
 
 
 ##  :iphone: Screenshots :iphone:
@@ -44,7 +44,9 @@
 ## :paperclip: Used plugins :paperclip:
 
    :heavy_check_mark: **Facebook_Page_Plugin**<br>
+   
   
-## Contact: tariqulcse2@gmail.com
+## Contact:  E-mail: tariqulcse2@gmail.com
+     Twitter: @tariqul_tais
 
 ### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
