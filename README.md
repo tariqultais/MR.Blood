@@ -48,5 +48,5 @@
   
 ## Contact: tariqulcse2@gmail.com
             Twitter: @tariqul_tais
-##         http://tariqul23.github.io
+##     Web: http://tariqul23.github.io
 ### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
