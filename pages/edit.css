@@ -1,0 +1,98 @@
+body{
+	background: url("img/pattern-bg.png") fixed;
+}
+
+.wrapper{
+	height: 1200px;
+	width: 1000px;
+	margin: 0 auto;
+	background: #fff;
+	/*box-shadow: 0px 0px 1px 0px #000;*/
+}
+.header{
+	height: 100px;
+	width: 100%;
+	float: left;
+}
+
+.nabbar{
+	border-top:1px solid #0000001a;
+	border-bottom: 1px solid #0000001a;
+	height: 55px;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.nabbar ul li{
+	display: inline-block;
+	
+}
+.nabbar ul li a{
+	text-decoration: none;
+	color: #000;
+	padding: 18 30 15px;
+	border-right: 1px solid #0000001a;
+	font-size: 18px;
+	font-family: Arial Rounded MT Bold;
+
+}
+.nabbar ul li a:hover{
+	color: #000;
+	background: #F4F4F4;
+
+}
+
+
+.container{
+	height: 1010px;
+	width: 100%;
+	float: left;
+
+	
+}
+
+
+.footer{
+	height: 35px;
+	width: 100%;
+	float: left;
+	font-size: 25px;
+	text-align: center;
+
+	color: #fff;
+	background: #1A1A1A;
+}
+
+#sub{
+
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 5px;
+	min-height: 450px;
+	height: auto;
+	min-width: 700px;
+	
+	box-shadow: 0px 0px 8px 0px #000;
+	margin: 0 auto;
+}
+
+}
+td{
+	color: #000;
+	font-size: 18px;
+	padding-left: 10px;
+	padding-top: 10px;
+
+
+
+}
+
+
+form{
+	margin-left: 60px;
+}
+
+
+
+#sub a{
+color:#000;
+}
