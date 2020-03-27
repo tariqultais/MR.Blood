@@ -1,0 +1,188 @@
+body{
+	background: url("img/pattern-bg.png") fixed;
+}
+
+.wrapper{
+	height: 1200px;
+	width: 1000px;
+	margin: 0 auto;
+
+	background: #fff;
+	/*box-shadow: 0px 0px 1px 0px #000;*/
+}
+.header{
+	height: 100px;
+	width: 100%;
+	float: left;
+}
+
+.nabbar{
+	border-top:1px solid #0000001a;
+	border-bottom: 1px solid #0000001a;
+	height: 55px;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.nabbar ul li{
+	display: inline-block;
+	
+}
+.nabbar ul li a{
+	text-decoration: none;
+	color: #000;
+	padding: 18 25 15px;
+	border-right: 1px solid #0000001a;
+	font-size: 18px;
+	font-family: Arial Rounded MT Bold;
+
+}
+.nabbar ul li a:hover{
+	color: #000;
+	background: #F4F4F4;
+
+}
+
+.container{
+	height: 1010px;
+	width: 100%;
+	float: left;
+
+	
+}
+
+
+.footer{
+	height: 35px;
+	width: 100%;
+	float: left;
+	font-size: 25px;
+	text-align: center;
+
+	color: #fff;
+	background: #1A1A1A;
+}
+
+#sub{
+
+	/*background-color: rgba(166,21,20,0.4);	border-radius: 15px;*/
+	background-color: rgba(0,0,0,0.1);
+	border-radius: 5px;
+	min-height: 400px;
+	height: auto;
+	width: 500px;
+
+	
+	margin: 0 auto;
+	font-family: Arial Rounded MT Bold;
+}
+input{
+	width: 220px;
+	height: 35px;
+	border-radius: 5px;
+	border: 2px solid #fff;
+	background: #fff;
+	box-shadow: 0px 0px 10px 0px #000;
+	text-align: center;
+}
+td{
+	color: #000;
+	font-size: 18px;
+	padding-left: 10px;
+	padding-top: 3px;
+
+
+
+
+}
+
+
+form{
+	margin-left: 60px;
+}
+button{
+	
+	margin-top: 25PX;
+	
+	color: #000;
+	font-family: Arial Rounded MT Bold;	
+	padding: 5 20 5px;
+
+	background: #fff;
+	border-radius: 8px;
+	cursor: pointer;
+	border: 2px solid #444;
+
+}
+button:hover{
+	color: #fff;
+	background: red;
+
+}
+#bn{
+	margin-left: 28px;
+}
+#bn ul li{
+	display:inline-block;
+	
+
+}
+#back{
+	margin-top: 25px;
+}
+
+#back a{
+	padding: 5 15px;
+	text-decoration: none;
+	border-radius: 7px;
+
+	color: #fff;
+	font-family: Arial Rounded MT Bold;
+	font-size: 14px;
+	border: 2px solid #444;
+	margin-left: 110px;
+	margin-right: 5px;
+	margin-top: 25PX;
+	background: #fff;
+	color: #000;
+	
+	padding: 5 20 6px;
+
+	
+	border-radius: 8px;
+	cursor: pointer;
+
+
+
+
+}
+#back a:hover{
+	
+	
+	transition: 0.4s;
+	
+	color: #fff;
+	background: red;
+
+}
+
+
+select{
+	height: 30px;
+	width: 220px;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: center;
+	border: 1px solid #33333380;box-shadow: 0px 0px 10px 0px #000;
+}
+
+textarea{
+	width: 220px;
+	height: 90px;
+	max-height: 220px;
+	max-width: 320px;
+	background: #fff;
+	border: 2px solid #fff;
+	border-radius: 5px;
+box-shadow: 0px 0px 10px 0px #000;
+}
