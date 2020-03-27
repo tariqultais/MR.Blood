@@ -1,0 +1,36 @@
+body{
+  background: url("img/pic01.jpeg") no-repeat fixed;
+  background-size: cover;font-family: Segoe Print;
+  text-shadow: 1px 0px 10px  #000;
+}
+input{
+  background: #fff;
+  padding: 5 10 5px;
+  border-radius: 5px;
+  border:1px solid #444;
+
+}
+button{
+   
+  margin-top: 25PX;
+  margin-bottom: 15px;
+  margin-left: 5px;
+  
+  
+  font-family: Segoe Print; 
+  padding: 5 15 5px;
+color: #fff;
+  background: #222222;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 2px solid #222222;
+}
+button:hover{
+  color: #000;
+  background: #9ACC3D; text-shadow: 1px 0px 10px  #000;
+
+}
+
+table{
+ border-radius: 10px;
+}
