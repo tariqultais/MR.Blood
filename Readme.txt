@@ -12,19 +12,12 @@
  Install Key: No Need 
 
 
-=======================================================================
-    Contact With Us ---- TQLSOFT
-=======================================================================
-    
-    Email: contact@tqlsoft.tk
-    Page: fb.com/TQLSoft
-    Web: www.tqlsoft.tk
-                        
 
 =======================================================================
-     Powered by
+     Developed by
 =======================================================================
      TARIQUL ISLAM
      Founder of TQLSOFT
      E-mail:tariqulcse2@gmail.com
      Twitter: @tariqul_tais
+     web: https://tariqul23.github.io
