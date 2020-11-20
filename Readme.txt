@@ -18,6 +18,6 @@
 =======================================================================
      TARIQUL ISLAM
      Founder of TQLSOFT
-     E-mail:tariqulcse2@gmail.com
+     E-mail:tariqul.tais@yahoo.com
      Twitter: @tariqul_tais
-     web: https://tariqul23.github.io
+     web: https://tariqultais.github.io
